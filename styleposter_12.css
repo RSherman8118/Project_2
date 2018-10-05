@@ -1,0 +1,144 @@
+body {
+
+background-color: black;
+margin: 0;
+
+
+}
+
+
+
+
+div {
+
+	
+
+align-content: center;
+margin: 40px auto;
+
+}
+
+.grayborder {
+	border: 1px solid gray;
+}
+
+
+.flex {
+	display: flex;
+	width: 100;
+	justify-content: center;
+	align-content: center;
+}
+
+.flex-vertical {
+
+	display: flex;
+ 
+	flex-direction: column;
+}
+
+.flex-end {
+
+	justify-content: flex-end;
+
+}
+
+.space-around {
+
+	justify-content: space-around;
+	justify-content: center;
+	align-content: center;
+}
+
+.space-between {
+
+	justify-content: space-between;
+	justify-content: center;
+	align-content: center;
+}
+
+.white {
+
+	width: 800px;
+	height: 300px;
+
+
+}    
+
+.white {
+	background-color: white;
+} 
+
+
+
+h1 { 
+
+	font-family:Helvetica;
+
+      font-size: 95px;
+
+      font-weight: bold;
+      color: #000000;
+      font-style: 
+      text-align: center;
+      padding:90px 30px 30px 30px;
+
+
+}
+
+h2 { 
+
+	font-family:Helvetica;
+
+      font-size: 35px;
+
+      font-weight: bold;
+      color: #000000;
+      text-align: left;
+      padding:40px 30px 30px 30px;
+
+}
+
+h3 { 
+
+	font-family:Helvetica;
+	font-weight: lighter;
+
+      font-size: 25px;
+
+      color: #000000;
+      text-align: left;
+       padding:40px 30px 30px 30px;
+
+}
+
+
+
+h4 { 
+
+	font-family:Helvetica;
+	font-weight: lighter;
+
+      font-size: 20px;
+
+      color: #000000;
+      text-align: left;
+       padding:63px 30px 63px 30px;
+
+}
+
+     p {
+
+   font-family:Helvetica;
+font-weight: lighter;
+      font-size: 15px;
+      color: #000000;
+      text-align: left;
+      padding:75px 30px 30px 30px;
+
+}
+
+          a {
+    color: red;
+}  
+

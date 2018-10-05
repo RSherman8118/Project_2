@@ -1,0 +1,147 @@
+
+
+body {
+
+background: url('../Project_2/feministdesign_pink.png' ) repeat;
+margin: 0;
+
+background-position: center
+
+
+}
+
+div {
+
+margin: 40px auto;
+
+  
+
+align-content: center;
+
+}
+
+
+
+
+.flex {
+	display: flex;
+	width: 1000px;
+  height: 300px;
+
+}
+
+.flex-wrap {
+
+  flex-wrap:wrap;
+}
+
+
+
+.flexbig {
+	display: flex;
+	width: 1000px;
+	
+}
+
+
+.black {
+	background-color: black;
+}
+
+.magenta {
+	background-color: magenta;
+}
+
+
+.space-around {
+
+	justify-content: space-around;
+}
+
+.space-between{
+
+	justify-content: space-between;
+}
+
+.flex-start {
+display: flex;
+	justify-content: flex-start;
+
+}
+
+.flex-end {
+display: flex;
+height: 200px;
+	justify-content: flex-end;
+
+}
+
+.flex-vertical {
+
+	display: flex;
+	height: 800px; 
+	width: 800px;
+	flex-direction: column;
+}
+
+.bold {
+  font-style: bold;
+}
+
+ p {
+
+   font-family:Helvetica;
+
+      font-size: 15px;
+      color: #ffffff;
+      text-align: left;
+      padding:35px 30px 35px 30px;
+
+}
+
+
+
+
+
+h1 { 
+
+	font-family:Helvetica;
+
+      font-size: 100px;
+
+      font-weight: bold;
+      color: white;
+      font-style: 
+      text-align: center;
+      padding:30px 30px 30px 30px;
+
+}
+
+h2 { 
+
+	font-family:Helvetica;
+
+      font-size: 35px;
+
+      font-weight: bold;
+      color: #ffffff;
+      text-align: left;
+     padding:10px 30px 10px 30px;
+
+}
+
+
+h3 { 
+
+	font-family:Helvetica;
+	font-weight: lighter;
+
+      font-size: 25px;
+
+      color: #ffffff;
+      text-align: left;
+      padding:20px 30px 20px 30px;
+
+}
+
+

@@ -1,0 +1,158 @@
+body {
+
+background-color: black;
+margin: 0;
+
+
+}
+
+
+
+
+div {
+
+	
+
+align-content: center;
+margin: 40px auto;
+
+}
+
+.grayborder {
+	border: 1px solid gray;
+}
+
+
+.flex {
+	display: flex;
+	width: 500;
+	
+	
+}
+
+.flex-vertical {
+
+	display: flex;
+ 
+	flex-direction: column;
+	
+}
+
+.flex-end {
+
+	justify-content: flex-end;
+
+}
+
+.space-around {
+
+	justify-content: space-around;
+	justify-content: center;
+	align-content: center;
+}
+
+.space-between {
+
+	justify-content: space-between;
+	justify-content: center;
+	align-content: center;
+}
+
+.white {
+
+	width: 800px;
+	height: 200px;
+
+	background-color: white;
+
+
+}    
+
+
+
+
+h1 { 
+
+	font-family:Helvetica;
+
+      font-size: 110px;
+
+      font-weight: bold;
+      color: magenta;
+      font-style: 
+      text-align: center;
+      padding:50px 50px 0px 50px;
+
+
+}
+
+.blackborder {
+	border: 1px solid black;
+}
+
+h2 { 
+
+	font-family:Helvetica;
+
+      font-size: 50px;
+font-weight: bold;
+      
+      color: #000000;
+      text-align: left;
+      padding:0px 50px 50px 50px;
+
+}
+
+.largeheight {
+
+	height: 500px;
+}
+
+h3 { 
+
+	font-family:Helvetica;
+	font-weight: bold;
+
+      font-size: 30px;
+
+      color: #000000;
+      text-align: left;
+       padding:50px 50px 50px 50px;
+
+}
+
+.italic {
+
+	font-style: italic;
+}
+
+
+
+h4 { 
+
+	font-family:Helvetica;
+	font-weight: lighter;
+
+      font-size: 25px;
+
+      color: #000000;
+      text-align: left;
+       padding:40px 50px 40px 50px;
+
+}
+
+     p {
+
+   font-family:Helvetica;
+font-weight: lighter;
+      font-size: 15px;
+      color: #000000;
+      text-align: left;
+    padding:65px 50px 40px 50px;
+
+}
+
+          a {
+    color: red;
+}  
+

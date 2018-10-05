@@ -1,0 +1,125 @@
+
+body {
+
+background: url('../Project_2/feministdesign.jpg' ) no-repeat;
+margin: 0;
+
+
+background-size: cover;
+
+
+}
+
+
+div {
+
+ 
+
+
+
+background-color: black;
+
+
+margin: 50px 50px 50px 50px;
+
+}
+
+
+
+
+
+.flex-vertical {
+
+  display: flex;
+
+  width: 1000px;
+  flex-direction: column;
+
+}
+
+
+
+
+
+.black {
+	background-color: black;
+}
+
+.magenta {
+	background-color: magenta;
+}
+
+
+.space-around {
+
+	justify-content: space-around;
+}
+
+.space-between{
+
+	justify-content: space-between;
+}
+
+
+
+
+ p {
+
+   font-family:Helvetica;
+font-weight: lighter;
+      font-size: 30px;
+      color: #ffffff;
+      text-align: left;
+      padding:30px 30px 30px 30px;
+
+}
+
+.right {
+  text-align: right;
+}
+
+
+
+
+
+h1 { 
+
+	font-family:Helvetica;
+
+      font-size: 500px;
+
+      font-weight: bold;
+      color: magenta;
+      text-align: right;
+      padding: 30px 30px 30px 30px;
+
+}
+
+h2 { 
+
+	font-family:Helvetica;
+
+      font-size: 100px;
+
+      font-weight: bold;
+      color: #ffffff;
+      text-align: left;
+      padding:10px 30px 30px 30px;
+
+}
+
+
+h3 { 
+
+	font-family:Helvetica;
+	font-weight: lighter;
+
+      font-size: 60px;
+
+      color: #ffffff;
+      text-align: left;
+      padding:30px 30px 30px 30px;
+
+}
+
+
